@@ -1,5 +1,9 @@
-# Enemy Manager
-
+# This script manages enemy spawning during a run.
+# It uses a weighted enemy table, valid spawn positions from the current map,
+# nearby enemy checks, and arena difficulty scaling.
+#
+# The goal of this system is to spawn enemies inside valid arena areas,
+# avoid spawning directly on top of the player, and increase pressure over time.
 
 extends Node
 
