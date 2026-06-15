@@ -1,7 +1,5 @@
 # Enemy Manager
-# This script chooses from selected enemies, (changes are coming to the selection)
-# It collects valid spawn positions from a TileMapLayer and converts them into world positions
-# This is replacing an older radius-based spawn approach, and will further change in the future in the enemy seleciton
+
 
 extends Node
 
