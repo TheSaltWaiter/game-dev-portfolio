@@ -47,3 +47,4 @@ The project uses different player abilities and upgrade logic inspired by arena-
 - GameMaker Language
 - Python
 - Git/GitHub
+- Aseprite
