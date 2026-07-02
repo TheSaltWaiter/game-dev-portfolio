@@ -1,3 +1,8 @@
+#This script is for control and visual styles of the main menu
+#Button connections
+#Transitions
+#Automatic Animations
+
 extends CanvasLayer
 
 
