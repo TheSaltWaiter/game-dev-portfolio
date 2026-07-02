@@ -1,3 +1,5 @@
+#This script is basis for all enemy behaviour
+
 extends CharacterBody2D
 
 class_name BaseEnemy
